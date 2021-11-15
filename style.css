@@ -7,12 +7,14 @@ h1 {
     font-size: 50px;
 }
 
-.p1{
+.p1 {
     color: #a42423;
     font-size: 40px;
+    margin-top: 2em;
 }
 
-.p2{
+.p2 {
     color: #00008f;
     font-size: 40px;
+    margin-top: 2em;
 }
